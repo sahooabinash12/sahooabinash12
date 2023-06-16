@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abinash Sahoo</h1>
 <h3 align="center">A passionate software tester from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0FUD7dvnKMpe-totqe57Pz&ust=1687015876579000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCXh4SOyP8CFQAAAAAdAAAAABAv">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkGmLuTMeQyalMy7ASQgpUQbCRKmj5IIod1s6pnuQtvg&usqp=CAU&ec=48665701">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahooabinash12&label=Profile%20views&color=0e75b6&style=flat" alt="sahooabinash12" /> </p>
 
